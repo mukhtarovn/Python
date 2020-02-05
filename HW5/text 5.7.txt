@@ -1,0 +1,3 @@
+firma_1 ooo 5000 40
+firma_2 ip 4000 230
+firma_3 ooo 70000 300
